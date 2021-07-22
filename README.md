@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CRose17
 - 👀 I’m interested in adventuring in the world of Software Development!
-- 🌱 I’m currently learning JavaScript and soon to be working on Full-Stack.
-- 💞️ I’m looking to collaborate on (probably nothing yet, just started the GitHub scene).
+- 🌱 I’m wrapping up Front-End @NuCamp (Bootstrap, React, React-Native) and soon to be working on the Full-Stack pieces.
+- 💞️ I’m looking to code everyday to deepen my understanding and level up my skillset.
 - 📫 You can message me here easy enough :smiley:
 
 <!---
