@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CRose17
 - 👀 I’m interested in adventuring in the world of Software Development!
-- 🌱 I’m wrapping up Full-Stack @NuCamp (NodeJS, Express, & MongoDB)
-- 💞️ I code everyday from games to sites and misc. apps to deepen my understanding and level up my skillset.
+- 🌱 I’m a Full-Stack @NuCamp Grad deepening my knowledge of front-end and back-end technologies.
+- 💞️ I code everyday from games to sites and misc. apps to level up my skillset.
 - 📫 You can message me here easy enough :smiley:
 
 <!---
